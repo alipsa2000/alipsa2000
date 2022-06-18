@@ -26,14 +26,10 @@ I'm [Alipsa Sahoo](https://github.com/alipsa2000), a student of IIIT Bhubaneswar
 
  📈 **My GitHub Stats:**
 
+ 
  <p align="center">
 
-   <img src="https://github-readme-stats.vercel.app/api?username=SivasisTripathy&show_icons=true&theme=radical&line_height=32">
-
- </p>
- <p align="center">
-
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivasisTripathy&count_private=true&layout=compact&theme=radical">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alipsa2000&count_private=true&layout=compact&theme=radical">
 
  </p>
 
