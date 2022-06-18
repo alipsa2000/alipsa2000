@@ -42,13 +42,13 @@ I'm [Alipsa Sahoo](https://github.com/alipsa2000), a student of IIIT Bhubaneswar
 **How about Connecting** :coffee:
 <p align="center">
 
-   [![Linkedin Badge](https://img.shields.io/badge/-sivasistripathy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sivasis-tripathy-a10a021b6/)](https://www.linkedin.com/in/sivasis-tripathy/)
-   [![Gmail Badge](https://img.shields.io/badge/-sivasistripathy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b119055@iiit-bh.ac.in)](mailto:b119055@iiit-bh.ac.in)
-   [![Instagram Badge](https://img.shields.io/badge/-@theoriginaltripathy-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/the_original_tripathy/)](https://instagram.com/theoriginaltripathy/)
-   [![Facebook Badge](https://img.shields.io/badge/-sivasis.tripathy-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sivasis.tripathy/)](https://www.facebook.com/sivasis.tripathy/)
-   [![GeeksforGeeks Badge](https://img.shields.io/badge/-sivasistripathy-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/sivasistripathy)](https://auth.geeksforgeeks.org/user/sivasistripathy)
-   [![Twitter Badge](https://img.shields.io/badge/-@SaxiBitch-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SaxiBitch)](https://twitter.com/SaxiBitch)
-   [![LeetCode Badge](https://img.shields.io/badge/-sivasistripathy-white?style=flat-square&labelColor=white&logo=Leetcode&logoColor=black&link=https://leetcode.com/sivasistripathy/)](https://leetcode.com/sivasistripathy/)
+   [![Linkedin Badge](https://img.shields.io/badge/-alipsasahoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alipsa-sahoo/)](https://www.linkedin.com/in/alipsa-sahoo/)
+   [![Gmail Badge](https://img.shields.io/badge/-alipsasahoo-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b519006@iiit-bh.ac.in)](mailto:b519006@iiit-bh.ac.in)
+   [![Instagram Badge](https://img.shields.io/badge/-@_._alipsa_._-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_._alipsa_._/)](https://instagram.com/_._alipsa_._/)
+  
+  
+   
+  
 
 </p>
 
@@ -56,6 +56,6 @@ I'm [Alipsa Sahoo](https://github.com/alipsa2000), a student of IIIT Bhubaneswar
 
 <div align="left">
 
-![ViewCount](https://komarev.com/ghpvc/?username=SivasisTripathy) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/SivasisTripathy)
+![ViewCount](https://komarev.com/ghpvc/?username=alipsa2000) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/alipsa2000)
 
 </div>
