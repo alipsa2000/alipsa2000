@@ -1,6 +1,6 @@
 ### Namaste
 
-I'm [Sivasis Tripathy](https://github.com/SivasisTripathy), a student of IIIT Bhubaneswar pursuing my B.Tech Degree. I do a lot of tinkering around digital devices and I'm a competitive coder, a part-time Front End Developer and a bot maker for Discord. And when I'm chilling, I play Minecraft. ⛏💎
+I'm [Alipsa Sahoo](https://github.com/alipsa2000), a student of IIIT Bhubaneswar pursuing my B.Tech Degree. I usually surf the Net  and I'm a Web Developer. And when I'm chilling, I listen music.
 
  ---
 
@@ -18,10 +18,9 @@ I'm [Sivasis Tripathy](https://github.com/SivasisTripathy), a student of IIIT Bh
  ---
 
  ⚡ **Fun fact:**
- - :snake: I’m looking to collaborate on making Discord Bots that are using discord.py.
- - 💻 I’m currently learning JavaScript and node.js required for a personal project.
- - :pencil2: I write poems sometimes.
- - :musical_note: I'm a Melómano.
+ - :snake: I’m looking to collaborate on making Web Applications that are scalable , flexible,secure.
+ 
+ 
 
  ---
 
