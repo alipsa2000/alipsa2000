@@ -1,6 +1,6 @@
 ### Namaste
 
-I'm [Alipsa Sahoo](https://github.com/alipsa2000), a student of IIIT Bhubaneswar pursuing my B.Tech Degree. I usually surf the Net  and I'm a Web Developer. And when I'm chilling, I listen music.
+I'm [Alipsa Sahoo](https://github.com/alipsa2000), a student of IIIT Bhubaneswar pursuing my B.Tech Degree. I usually surf the Net for learning new technologies and to keep pace with new trends and I'm a Web Developer. And a chai lover.
 
  ---
 
