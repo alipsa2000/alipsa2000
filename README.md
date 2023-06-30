@@ -42,7 +42,6 @@ I'm [Alipsa Sahoo](https://github.com/alipsa2000), a student of IIIT Bhubaneswar
 **How about Connecting** :coffee:
 <p align="center">
 
-   [![Linkedin Badge](https://img.shields.io/badge/-sivasistripathy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sivasis-tripathy-a10a021b6/)](https://www.linkedin.com/in/sivasis-tripathy/)
    [![Linkedin Badge](https://img.shields.io/badge/-alipsa-sahoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alipsa-sahoo/)](https://www.linkedin.com/in/alipsa-sahoo/)
    [![Gmail Badge](https://img.shields.io/badge/-alipsasahoo-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b519006@iiit-bh.ac.in)](mailto:b519006@iiit-bh.ac.in)
    [![Instagram Badge](https://img.shields.io/badge/-@_._alipsa_._-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_._alipsa_._/)](https://instagram.com/_._alipsa_._/)
