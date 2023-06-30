@@ -52,6 +52,6 @@ I'm [Alipsa Sahoo](https://github.com/alipsa2000), a student of IIIT Bhubaneswar
 
 <div align="left">
 
-    ![ViewCount](https://komarev.com/ghpvc/?username=alipsa2000) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/alipsa2000)
+   ![ViewCount](https://komarev.com/ghpvc/?username=alipsa2000) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/alipsa2000)
 
 </div>
